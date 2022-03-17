@@ -39,3 +39,22 @@ code {
 .ant-layout {
   height: 100%;
 }
+
+.comment-wrapper {
+  width: 500px;
+  margin: 10px auto;
+  font-size: 14px;
+  background-color: #fff;
+  border: 1px solid #f1f1f1;
+  padding: 20px;
+}
+
+.header-container .header-right {
+  display: flex;
+  justify-content: space-between;
+  line-height: 1;
+}
+.header-container .header-timer {
+  display: flex;
+  flex-direction: column;
+}
