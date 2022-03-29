@@ -7,6 +7,9 @@ import reportWebVitals from "./utils/reportWebVitals";
 import { BrowserRouter } from "react-router-dom";
 import "antd/dist/antd.css";
 
+import 'weui';
+import 'react-weui/build/packages/react-weui.css';
+
 ReactDOM.render(
   <BrowserRouter>
     <App />
